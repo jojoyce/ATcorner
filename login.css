@@ -1,0 +1,13 @@
+.title1 {
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  z-index: 99;
+  padding-top: 8%;
+  background: #EAE7DC;
+}
+
+.title1 p {
+  font-size: 3vw;
+  font-family: 'Berkshire Swash', cursive;
+}
